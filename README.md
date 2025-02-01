@@ -1,2 +1,2 @@
-# WSU-Second-REPO
-NO API KEY
+# WSU-Spring2025-Hackathon
+First Ever Hackathon!
